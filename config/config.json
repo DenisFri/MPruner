@@ -1,0 +1,12 @@
+{
+  "directories": [
+    {
+      "path": "Mention\\Your\\Directory\\Here",
+      "delete_all": false
+    },
+    {
+      "path": "Mention\\Your\\Directory\\Here",
+      "delete_all": false
+    }
+  ]
+}
