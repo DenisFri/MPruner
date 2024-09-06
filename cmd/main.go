@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	logger, err := utils.InitLogger("cleanup.log")
+	logger, err := utils.InitLogger("log/cleanup.log")
 	if err != nil {
 		log.Fatalf("Failed to initialize logger: %v", err)
 	}
