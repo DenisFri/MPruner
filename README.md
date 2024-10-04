@@ -12,7 +12,7 @@ MPruner is a script designed to clean up cached files. It allows you to specify 
 
 ## Requirements
 
-- Go 1.16 or later
+- Go 1.23.0 or later
 
 ## Setup
 
@@ -37,7 +37,7 @@ In case the default configuration file is missing, create a new `config.json` by
       "delete_all": false
     },
     {
-      "path": "Mention\\Your\\Directory\\Here",
+      "path": "Mention\\Your\\Second\\Directory\\Here",
       "delete_all": false
     }
   ]
